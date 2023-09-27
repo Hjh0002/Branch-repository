@@ -1,4 +1,6 @@
-이것도 충돌
+
+이것도
+
 
 // C program for Merge Sort
 #include <stdio.h>
