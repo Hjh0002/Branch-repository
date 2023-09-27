@@ -1,4 +1,4 @@
-이것도
+이것도 crash
 
 // C program for Merge Sort
 #include <stdio.h>
